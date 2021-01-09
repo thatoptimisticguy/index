@@ -1,0 +1,11 @@
+[
+    "name": "Rohan Shorey",
+    "age": "26",
+    "city": "Delhi",
+    "car" : "accent"
+    "weight": {
+        "month":["march", "april"],
+        "weight": ["92kg", "90kg"]
+    }
+]
+

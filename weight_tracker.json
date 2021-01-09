@@ -3,7 +3,7 @@
     "name": "Rohan Shorey",
     "age": "26",
     "city": "Delhi",
-    "car" : "accent"
+    "car" : "accent",
     "weight": {
         "month":["march", "april"],
         "weight": ["92kg", "90kg"]
@@ -13,7 +13,7 @@
     "name":"Pranav Shorey",
     "age": "20",
     "city": "Delhi",
-    "car" : "accent"
+    "car" : "accent",
     "weight": {
         "month":["march", "april"],
         "weight": ["73kg", "75kg"]
